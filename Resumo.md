@@ -1,6 +1,7 @@
 # Resumo da aula - coding
-Na nossa aula começamos a estudar um pouco de git, github e vccode. 
-aprendemos um pouco sobre termos e estruturas no github, como esses exemplificados a baixo.
+Na nossa aula começamos a estudar git, github e vscode. 
+aprendemos um pouco sobre termos e estruturas no github, como esses exemplificados a baixo. ao utilizar alguns codigos podemos modificar a estrutura do texto.
+exemplo:
 # isto é um titulo 
 ## isto é um titulo 
 ### isto é um titulo
